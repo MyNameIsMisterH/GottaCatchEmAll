@@ -1,2 +1,3 @@
 # GottaCatchEmAll
-Testing Results for a Pokemon League registration site
+ACs, Test Cases and Test Results for Pokemon League registration site
+Dave Higgins - 27 Nov 2024
